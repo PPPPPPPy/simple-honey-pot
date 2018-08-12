@@ -10,4 +10,5 @@ Alarm based on ssh login: <br />
 
 # https://youtu.be/RIcVMq-OE1s
 <br />
-[![Alarm base on raspberry](http://i3.ytimg.com/vi/RIcVMq-OE1s/hqdefault.jpg)](https://youtu.be/RIcVMq-OE1s)]
+
+[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/RIcVMq-OE1s/hqdefault.jpg)](https://youtu.be/RIcVMq-OE1s)
